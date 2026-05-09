@@ -41,7 +41,10 @@ I'm a Medical Informatics student at Wrocław University of Science and Technolo
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/wlaszkiewicz/wlaszkiewicz/output/github-contribution-grid-snake-dark.svg" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wlaszkiewicz/wlaszkiewicz/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wlaszkiewicz/wlaszkiewicz/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/wlaszkiewicz/wlaszkiewicz/output/github-contribution-grid-snake.svg" />
+</picture>
 </div>
 
