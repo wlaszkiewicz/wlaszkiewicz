@@ -26,7 +26,6 @@ I'm a Medical Informatics student at Wrocław University of Science and Technolo
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
----
 
 **passion projects**
 
