@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C281A9&center=true&vCenter=true&width=435&lines=Medical+Informatics+student;Android+%26+mobile+developer;Bioinformatics+researcher)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C281A9&center=true&vCenter=true&width=435&lines=Medical+Informatics+student;I+build+things;sometimes+they+even+work)](https://git.io/typing-svg)
 
  <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" type="image/webp">
