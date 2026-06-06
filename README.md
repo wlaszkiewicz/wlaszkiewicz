@@ -23,7 +23,7 @@ I'm a Medical Informatics student at Wrocław University of Science and Technolo
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,py,ts,java,r,cs,firebase,androidstudio,react,postgres,linux,electron,unity" />
+    <img src="https://skillicons.dev/icons?i=ts,java,r,cs,kotlin,py,firebase,androidstudio,react,postgres,linux,electron,unity" />
   </a>
 </p>
 
