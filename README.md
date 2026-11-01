@@ -26,13 +26,14 @@ I'm a Medical Informatics student at Wrocław University of Science and Technolo
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,java,r,cs,kotlin,py,firebase,androidstudio,react,spring,postgres,linux,electron,unity,jenkins" />
+    <img src="https://skillicons.dev/icons?i=ts,java,r,cs,kotlin,py,matlab,firebase,androidstudio,react,spring,postgres,linux,electron,unity,blender,jenkins&perline=17" />
   </a>
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" /></p>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
+</p>
 
 **passion projects**
 
@@ -41,13 +42,13 @@ I'm a Medical Informatics student at Wrocław University of Science and Technolo
   <strong><a href="https://github.com/wlaszkiewicz/GlucoseGoose">GlucoseGoose</a></strong> — Real-time CGM diabetes management app built for my dad. Integrates Nightscout, Google Gemini AI for meal photo analysis, Health Connect, and custom goose sound alerts.
 </p>
 
-  👠 <strong><a href="https://github.com/wlaszkiewicz/clueless-app">Clueless</a></strong> — Windows 2000 fashion wardrobe organizer. Cross-platform (mobile + desktop). As if!
 <p>
-<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fa7a/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fa7a/512.gif" alt="🩺" width="24" height="24">
+  👠 <strong><a href="https://github.com/wlaszkiewicz/clueless-app">Clueless</a></strong> — Windows 2000 fashion wardrobe organizer. Cross-platform (mobile + desktop). As if!
+</p>
+
+<p>
+  <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fa7a/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fa7a/512.gif" alt="🩺" width="24" height="24"></picture>
   <strong><a href="https://github.com/wlaszkiewicz/LadyCure">LadyCure</a></strong> — Full Android e-clinic platform in Kotlin & Jetpack Compose. Three user roles, real-time chat, FCM notifications, Firebase Cloud Functions, Google Maps.
-</picture>
 </p>
 
 **games I've made**
@@ -56,7 +57,16 @@ I'm a Medical Informatics student at Wrocław University of Science and Technolo
 <strong><a href="https://github.com/wlaszkiewicz/bubble-and-brew">Bubble and Brew</a></strong> — VR potion-brewing game for Meta Quest, built in Unity 6 (URP + OpenXR). Follow the recipe book, grab and tilt bottles to pour into the cauldron, stir between ingredients. Be careful! Get the order wrong and it explodes.
 </p>
 
-🌊<strong><a href="https://github.com/wlaszkiewicz/manatee-game">Manatee to the Rescue</a></strong> — 3D physics game in Unity 6 where you swim as a manatee through a polluted river, ram boats to free trapped friends, clean up plastic, and play a retro 2D minigame.
+<p>
+🌊 <strong><a href="https://github.com/wlaszkiewicz/manatee-game">Manatee to the Rescue</a></strong> — 3D physics game in Unity 6 where you swim as a manatee through a polluted river, ram boats to free trapped friends, clean up plastic, and play a retro 2D minigame.
+</p>
+
+**science & uni projects**
+- <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="24" height="24"></picture> <strong><a href="https://github.com/wlaszkiewicz/star-detection">Star Detection</a></strong> — MATLAB pipeline that finds stars in night-sky photos with local-variance sky masking and MAD-based thresholding, then checks Big Dipper geometry against SIMBAD catalog data.
+- 🔬 <strong><a href="https://github.com/wlaszkiewicz/molecule-playground">Molecule Playground</a></strong> — Blender add-on for building and visualizing molecules. Imports XYZ and MOL files, infers bonds from covalent radii with a KD-tree search, and relaxes geometry.
+- 🤖 <strong><a href="https://github.com/wlaszkiewicz/transformers-vs-word2vec">Transformers vs Word2Vec</a></strong> — Notebook showing how BERT's contextual embeddings separate the meanings of a polysemous word (*mole*: biology, chemistry, dermatology) where Word2Vec collapses them into one vector.
+
+- 🌳 <strong><a href="https://github.com/wlaszkiewicz/center-star-msa">Center Star MSA</a></strong> → <strong><a href="https://github.com/wlaszkiewicz/phylogenetic-tree-upgma">UPGMA Phylogenetic Trees</a></strong> — From sequences to trees, implemented from scratch in Python: Needleman-Wunsch pairwise alignment feeds a Center Star multiple sequence alignment, which feeds UPGMA tree construction with ultrametricity checks and Newick export. PyQt5 GUIs, tested on Cytochrome C across vertebrates.
 
 ---
 
