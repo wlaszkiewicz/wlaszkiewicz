@@ -15,7 +15,8 @@
 I'm a Medical Informatics student at Wrocław University of Science and Technology. I build things.
 
 **right now I'm working on**
-- 🧬 bachelor's thesis: analyzing how SARS-CoV-2 RNA secondary structure influences mutation patterns across viral lineages — PostgreSQL pipeline, SHAPE-MaP parsing, interactive web visualization
+- 🧬 bachelor's thesis: how SARS-CoV-2 RNA structure shapes mutation patterns across 500+ viral lineages. Mutations are mapped onto the genome-wide secondary structure to see which ones disrupt base pairs and which come in compensating pairs. Also covers ViennaRNA validation against SHAPE-MaP data, pseudoknots in the frameshifting element, and a 3D look at co-mutating pairs. PostgreSQL + Python + R, with a research website on the way
+- 💼 web development internship at Capgemini, working on a project in an agile team: React/TypeScript + Spring Boot, Jenkins CI/CD pipelines
 - 🔬 bioinformatics research internship at Hirszfeld Institute, Polish Academy of Sciences
 - 📱 many side projects
 
@@ -23,9 +24,13 @@ I'm a Medical Informatics student at Wrocław University of Science and Technolo
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,java,r,cs,kotlin,py,firebase,androidstudio,react,postgres,linux,electron,unity" />
+    <img src="https://skillicons.dev/icons?i=ts,java,r,cs,kotlin,py,firebase,androidstudio,react,spring,postgres,linux,electron,unity,jenkins" />
   </a>
 </p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" /></p>
 
 **passion projects**
 
@@ -39,6 +44,13 @@ I'm a Medical Informatics student at Wrocław University of Science and Technolo
 
  🩺 <strong><a href="https://github.com/wlaszkiewicz/LadyCure">LadyCure</a></strong> — Full Android e-clinic platform in Kotlin & Jetpack Compose. Three user roles, real-time chat, FCM notifications, Firebase Cloud Functions, Google Maps.
 
+**games I've made**
+
+ 🔮 <strong><a href="https://github.com/wlaszkiewicz/bubble-and-brew">Bubble and Brew</a></strong> — VR potion-brewing game for Meta Quest, built in Unity 6 (URP + OpenXR). Follow the recipe book, grab and tilt bottles to pour into the cauldron, stir between ingredients. Be careful! Get the order wrong and it explodes.
+
+
+ 🌊 <strong><a href="https://github.com/wlaszkiewicz/manatee-game">Manatee to the Rescue</a></strong> — 3D physics game in Unity 6 where you swim as a manatee through a polluted river, ram boats to free trapped friends, clean up plastic, and play a retro 2D minigame.
+
 
 ---
 
@@ -47,4 +59,3 @@ I'm a Medical Informatics student at Wrocław University of Science and Technolo
 <img src="https://github.com/wlaszkiewicz/wlaszkiewicz/blob/output/github-contribution-grid-snake.svg%20dist/github-contribution-grid-snake-dark.svg" />
 
 </div>
-
